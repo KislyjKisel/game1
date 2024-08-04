@@ -1,6 +1,6 @@
 Example setup for [Raylib.lean](https://github.com/KislyjKisel/Raylib.lean), [Flecs.lean](https://github.com/KislyjKisel/Flecs.lean) and [Luau.lean](https://github.com/KislyjKisel/Luau.lean).
 
-Can be run using `lake exe Game`.
+Can be run using `lake exe game`.
 
 # Troubleshooting
 
